@@ -80,13 +80,13 @@ p{
 
 
 
-@media screen and (max-width:1200px){
+@media screen and (max-width:1000px){
     
     .content1 {flex-flow: column; }
 } 
 
 
-@media screen and (max-width:1000px){
+@media screen and (max-width:600px){
     
     .nav ul {background-color:rgba(255,0,0,0.7); display: block}
     .content1
