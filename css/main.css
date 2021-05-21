@@ -80,7 +80,7 @@ p{
 
 
 
-@media screen and (max-width:1000px){
+@media screen and (max-width:7500px){
     
     .content1 {flex-flow: column; }
 }
